@@ -25,4 +25,12 @@ Software de criptografia desenvolvido em linguagem C
 <img src='https://user-images.githubusercontent.com/108281436/197284051-50e7b104-ff98-4f6b-b0ea-0d538fbe1bf4.png' />
 </div>
 
+<div align='center'>
+<img src='https://user-images.githubusercontent.com/108281436/197296421-db797a88-aceb-4158-b3e9-74e5fdc2d8b3.png' />
+</div>
 
+
+
+<div align='center'>
+<img src='https://user-images.githubusercontent.com/108281436/197296446-1c1cac8e-090a-4d54-87d1-4f6052b78a09.png' />
+</div>
