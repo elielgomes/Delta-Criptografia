@@ -4,6 +4,10 @@ Software de criptografia desenvolvido em linguagem C
 
 
 <div align='center'>
+  <img src='https://user-images.githubusercontent.com/108281436/197921902-2f98d2cc-027c-4a79-88ba-4a2ea65850ff.png' />
+</div>
+
+<div align='center'>
   <img src='https://user-images.githubusercontent.com/108281436/197286619-28ae6dd3-0a85-4116-9ba2-ebf100c14503.png' />
 </div>
 
