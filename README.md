@@ -1,5 +1,5 @@
 # Delta-Criptografia
-Software de criptografia desenvolvido em linguagem C
+
 
 <p align='center'>
   <img src='https://user-images.githubusercontent.com/108281436/197286278-9a9ec9c8-668b-4e74-80ec-0c697c4b9bd0.png' />
