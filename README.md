@@ -32,6 +32,6 @@ Software de criptografia desenvolvido em linguagem C
 # 👨🏻‍💻 Tecnologias utilizadas
 <div align='start'>
 <img width=60  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />         
+<img width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />         
 </div>
           
