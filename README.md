@@ -21,16 +21,16 @@ Software de criptografia desenvolvido em linguagem C
 
 
 # ✏️ Descrição do Projeto
-
-
-
+Delta Cripto é um software desenvolvido inteiramente em linguagem C a fim de criar um sistema que o usuário possa criptografar e descriptografas suas mensagens, para isso o usuário deve digitar sua mensagem e escolher uma chave numérica que funciona como uma senha, esta chave mesma chave que o usuário utilizou para criptografar a  deve ser utilizada para descriptografar a mensagem, o usuário pode compartilhar a mensagem criptografada de forma segura, e apenas as pessoas que tiverem acesso a chave numérica poderam ter acesso a mensagem descriptografada.
 
 
 # 📈 Status do Projeto
 ![Frame 16](https://user-images.githubusercontent.com/108281436/192803852-d0a0e110-a351-4eb9-ad0e-95cb36a0bb49.png)
 
 # 🛠️ Funcionalidades e Demonstração da Aplicação
-https://user-images.githubusercontent.com/108281436/200970184-ab1f3895-eba2-4176-932a-b6d1774f78b8.mp4
+
+https://user-images.githubusercontent.com/108281436/200970336-c6b08fec-dfe9-48f1-b5eb-c8e45f231c54.mp4
+
 
 # 👨🏻‍💻 Tecnologias utilizadas
 <div align='start'>
