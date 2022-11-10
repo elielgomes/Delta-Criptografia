@@ -2,7 +2,7 @@
 Software de criptografia desenvolvido em linguagem C
 
 <p align='center'>
- <img src='https://user-images.githubusercontent.com/108281436/197286278-9a9ec9c8-668b-4e74-80ec-0c697c4b9bd0.png' />
+  <img src='https://user-images.githubusercontent.com/108281436/197286619-28ae6dd3-0a85-4116-9ba2-ebf100c14503.png' />
 <p/>
 
 
@@ -12,13 +12,12 @@ Software de criptografia desenvolvido em linguagem C
 
 # 🔍 Indice
 
-* [Badges](https://github.com/elielgomes/Devflix/blob/master/README.md#%EF%B8%8F-badges)
-* [Índice](https://github.com/elielgomes/Devflix/blob/master/README.md#-indice)
-* [Descrição do Projeto](https://github.com/elielgomes/Devflix/blob/master/README.md#%EF%B8%8F-descri%C3%A7%C3%A3o-do-projeto)
-* [Status do Projeto](https://github.com/elielgomes/Devflix/blob/master/README.md#-status-do-projeto)
-* [Funcionalidades e Demonstração da Aplicação](https://github.com/elielgomes/Devflix/blob/master/README.md#%EF%B8%8F-funcionalidades-e-demonstra%C3%A7%C3%A3o-da-aplica%C3%A7%C3%A3o)
-* [Acesso ao Projeto](https://github.com/elielgomes/Devflix/blob/master/README.md#-acesso-ao-projeto)
-* [Tecnologias utilizadas](https://github.com/elielgomes/Devflix/blob/master/README.md#-tecnologias-utilizadas)
+* [Badges](https://github.com/elielgomes/Delta-Criptografia/blob/main/README.md#%EF%B8%8F-badges)
+* [Índice](https://github.com/elielgomes/Delta-Criptografia/blob/main/README.md#-indice)
+* [Descrição do Projeto](https://github.com/elielgomes/Delta-Criptografia/blob/main/README.md#%EF%B8%8F-descri%C3%A7%C3%A3o-do-projeto)
+* [Status do Projeto](https://github.com/elielgomes/Delta-Criptografia/blob/main/README.md#-status-do-projeto)
+* [Funcionalidades e Demonstração da Aplicação](https://github.com/elielgomes/Delta-Criptografia/blob/main/README.md#%EF%B8%8F-funcionalidades-e-demonstra%C3%A7%C3%A3o-da-aplica%C3%A7%C3%A3o)
+* [Tecnologias utilizadas](https://github.com/elielgomes/Delta-Criptografia/blob/main/README.md#-tecnologias-utilizadas)
 
 
 # ✏️ Descrição do Projeto
