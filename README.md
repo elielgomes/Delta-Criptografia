@@ -1,40 +1,37 @@
 # Delta-Criptografia
 Software de criptografia desenvolvido em linguagem C
 
-
-
-<div align='center'>
-  <img src='https://user-images.githubusercontent.com/108281436/197921902-2f98d2cc-027c-4a79-88ba-4a2ea65850ff.png' />
-</div>
-
-<div align='center'>
+<p align='center'>
   <img src='https://user-images.githubusercontent.com/108281436/197286619-28ae6dd3-0a85-4116-9ba2-ebf100c14503.png' />
+<p/>
+
+
+# 🛡️ Badges
+![Open Source](https://img.shields.io/badge/OpenSource-%E2%9D%A4-green)
+
+
+# 🔍 Indice
+
+* [Badges](https://github.com/elielgomes/Devflix/blob/master/README.md#%EF%B8%8F-badges)
+* [Índice](https://github.com/elielgomes/Devflix/blob/master/README.md#-indice)
+* [Descrição do Projeto](https://github.com/elielgomes/Devflix/blob/master/README.md#%EF%B8%8F-descri%C3%A7%C3%A3o-do-projeto)
+* [Status do Projeto](https://github.com/elielgomes/Devflix/blob/master/README.md#-status-do-projeto)
+* [Funcionalidades e Demonstração da Aplicação](https://github.com/elielgomes/Devflix/blob/master/README.md#%EF%B8%8F-funcionalidades-e-demonstra%C3%A7%C3%A3o-da-aplica%C3%A7%C3%A3o)
+* [Acesso ao Projeto](https://github.com/elielgomes/Devflix/blob/master/README.md#-acesso-ao-projeto)
+* [Tecnologias utilizadas](https://github.com/elielgomes/Devflix/blob/master/README.md#-tecnologias-utilizadas)
+
+
+# ✏️ Descrição do Projeto
+
+# 📈 Status do Projeto
+![Frame 16](https://user-images.githubusercontent.com/108281436/192803852-d0a0e110-a351-4eb9-ad0e-95cb36a0bb49.png)
+
+# 🛠️ Funcionalidades e Demonstração da Aplicação
+
+
+# 👨🏻‍💻 Tecnologias utilizadas
+<div align='start'>
+<img width=60  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />         
 </div>
-
-<div align='center'>
-  <img src='https://user-images.githubusercontent.com/108281436/197286278-9a9ec9c8-668b-4e74-80ec-0c697c4b9bd0.png' />
-</div>
-
-
-<div align='center'>
-<img src='https://user-images.githubusercontent.com/108281436/197283128-b8eec26e-4efe-4ba0-a6eb-85e87dd87587.png' />
-</div>
-
-<div align='center'>
-<img src='https://user-images.githubusercontent.com/108281436/197283124-8c149d42-b41e-4226-8cf9-d578a420f0d1.png' />
-</div>
-
-
-<div align='center'>
-<img src='https://user-images.githubusercontent.com/108281436/197284051-50e7b104-ff98-4f6b-b0ea-0d538fbe1bf4.png' />
-</div>
-
-<div align='center'>
-<img src='https://user-images.githubusercontent.com/108281436/197296421-db797a88-aceb-4158-b3e9-74e5fdc2d8b3.png' />
-</div>
-
-
-
-<div align='center'>
-<img src='https://user-images.githubusercontent.com/108281436/197296446-1c1cac8e-090a-4d54-87d1-4f6052b78a09.png' />
-</div>
+          
