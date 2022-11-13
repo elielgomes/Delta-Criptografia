@@ -30,6 +30,34 @@ deve ser utilizada para descriptografar a mensagem, o usuário pode compartilhar
 
 # 🛠️ Funcionalidades e Demonstração da Aplicação
 
+
+# CRIPTOGRAFAR
+
+Passo 1 - Na página inicial o usuário deve selecionar a opção criptografar.
+
+![image](https://user-images.githubusercontent.com/108281436/201535939-5caa488b-7fb2-4584-a691-084c5f619387.png)
+
+Passo 2 - Na página de criptografar o usuário deve inserir sua mensagem no campo de texto, a mensagem deve conter apenas caracteres alfanuméricos após isso deve selecionar uma chave numérica entre 1 e 999 e clicar em criptografar.
+
+![image](https://user-images.githubusercontent.com/108281436/201536483-36d29222-38f6-4148-9280-7e4bd4847d21.png)
+
+Passo 3 - Dessa forma o usuário terá acesso a sua mensagem criptografada.
+![image](https://user-images.githubusercontent.com/108281436/201536671-c0d67f5f-851e-49ce-afa7-1219873e1872.png)
+
+
+# DECRIPTOGRAFAR
+
+Passo 1 - Na página inicial o usuário deve selecionar a opção descriptografar.
+
+![image](https://user-images.githubusercontent.com/108281436/201535939-5caa488b-7fb2-4584-a691-084c5f619387.png)
+
+
+Passo 2 - Na página de descriptografar o usuário deve inserir a mensagem criptografada no campo de texto e a mesma chave que foi utilizada para criptografar a mensagem.
+
+
+
+
+
 https://user-images.githubusercontent.com/108281436/200970336-c6b08fec-dfe9-48f1-b5eb-c8e45f231c54.mp4
 
 
