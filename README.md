@@ -54,8 +54,10 @@ Passo 1 - Na página inicial o usuário deve selecionar a opção descriptografa
 
 Passo 2 - Na página de descriptografar o usuário deve inserir a mensagem criptografada no campo de texto e a mesma chave que foi utilizada para criptografar a mensagem.
 
+![image](https://user-images.githubusercontent.com/108281436/201536955-98e87f8c-7246-4e88-ae36-ff73bcb6b7cd.png)
 
-
+Passo 3 - Dessa forma o usuário terá acesso a sua mensagem descriptografada
+![image](https://user-images.githubusercontent.com/108281436/201536993-d060b1b1-4718-452e-a1aa-66a572b3e748.png)
 
 
 https://user-images.githubusercontent.com/108281436/200970336-c6b08fec-dfe9-48f1-b5eb-c8e45f231c54.mp4
